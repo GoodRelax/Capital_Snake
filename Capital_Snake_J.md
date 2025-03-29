@@ -86,3 +86,5 @@
 | **0xF** | ✔ x   | ✔ y   | ✔ z   | ✖ {   | ✖ \|  | ✖ }   | ✔ ~   | ✖ DEL |
 
 ---
+
+このファイルは MIT ライセンスの下で提供されている。詳しくは LICENSE ファイルまたは [MIT License](https://opensource.org/licenses/MIT) を参照。

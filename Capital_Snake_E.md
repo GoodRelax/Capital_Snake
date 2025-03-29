@@ -89,3 +89,7 @@ serving as a useful tool for better project practices.
 | **0xD** | ✔ h   | ✔ i   | ✔ j   | ✔ k   | ✔ l   | ✔ m   | ✔ n   | ✔ o   |
 | **0xE** | ✔ p   | ✔ q   | ✔ r   | ✔ s   | ✔ t   | ✔ u   | ✔ v   | ✔ w   |
 | **0xF** | ✔ x   | ✔ y   | ✔ z   | ✖ {   | ✖ \|  | ✖ }   | ✔ ~   | ✖ DEL |
+
+---
+
+This file is licensed under the MIT License. See the LICENSE file or [MIT License](https://opensource.org/licenses/MIT) for details.
