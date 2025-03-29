@@ -26,6 +26,8 @@ The goal of this naming convention is to:
 - **Flexible Compatibility**: Works across various file systems and coding environments.
 - **ASCII Focused**: Ensures compatibility with standard ASCII characters.
 
+## For detailed rules and examples, please refer directly to [Capital_Snake_E.md](./Capital_Snake_E.md).
+
 ## Note
 
 This project is licensed under the MIT License. For more details, see [MIT License](https://opensource.org/licenses/MIT).
@@ -59,6 +61,8 @@ This project is licensed under the MIT License. For more details, see [MIT Licen
 - **読みやすい略語**: 略語がアンダースコアで明確に区切られています。
 - **幅広い互換性**: さまざまなファイルシステムやコーディング環境で利用可能。
 - **ASCII 対応**: 標準的な ASCII 文字に対応。
+
+## 詳細な規則や例については、[Capital_Snake_J.md](./Capital_Snake_J.md) を直接参照してください。
 
 ## Note
 
