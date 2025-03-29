@@ -14,7 +14,7 @@ Capital_Snake is a naming convention designed to promote readability and consist
 
 ---
 
-## For detailed rules and examples, please refer directly to [Capital_Snake_E](./docs/Capital_Snake_E.html).
+## For detailed rules and examples, please refer directly to - [Capital_Snake_E.html](Capital_Snake_E.html)
 
 ## Contributions Welcome!
 
@@ -37,7 +37,7 @@ Capital_Snake は、読みやすさと一貫性を向上させることを目的
 
 ---
 
-## 詳細な規則や例については、[Capital_Snake_J](./docs/Capital_Snake_J.html) を直接参照してください。
+## 詳細な規則や例については、[Capital_Snake_J.html](Capital_Snake_J.html)直接参照してください。
 
 ---
 
