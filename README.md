@@ -1,4 +1,3 @@
-
 # Capital_Snake Naming Convention
 
 ## Introduction
@@ -28,7 +27,10 @@ The goal of this naming convention is to:
    ```bash
    git clone https://github.com/GoodRelax/Capital_Snake.git
 
---
+## Note
+This project is licensed under the MIT License. For more details, see [MIT License](https://opensource.org/licenses/MIT).
+
+---
 # Japanese Version : Capital_Snake 命名規則
 
 ## はじめに
@@ -57,3 +59,7 @@ The goal of this naming convention is to:
 1. このリポジトリをクローンします：
    ```bash
    git clone https://github.com/GoodRelax/Capital_Snake.git
+
+## Note
+このプロジェクトはMITライセンスの下で提供されています。詳しいライセンス内容については、[MIT License](https://opensource.org/licenses/MIT) をご確認ください。
+
